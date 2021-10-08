@@ -1,5 +1,5 @@
 const path = require('path');
-const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
+const TerserPlugin = require("terser-webpack-plugin");
 const CompressionPlugin = require('compression-webpack-plugin');
 
 const SRC_DIR = path.join(__dirname, 'client', 'src');
@@ -33,7 +33,8 @@ module.exports = {
   },
 
   optimization: {
-    minimizer: [new UglifyJsPlugin()],
+    minimize: true,
+    minimizer: [new TerserPlugin()],
   },
 
   plugins: [new CompressionPlugin()],

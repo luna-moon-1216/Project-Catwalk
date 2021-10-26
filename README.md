@@ -1,6 +1,11 @@
 # Front-End Capstone
-### Project Catwalk - Sedna
----
+
+## Table of Contents
+- [Description](#project-catwalk-sedna)
+- [How to View](#to-check-out-this-project)
+- [Tech Stack](#what-we-used-during-development-of-the-project)
+
+### Project Catwalk Sedna
 This repo is the first senior project in Hack Reactor's Bootcamp, consists of building a client side application that resembles a really basic clothing e-commerce website. The project was developed by 3 students, focusing mainly in the project overview, the related products, outfits for the user and finally, a ratings and reviews section.
 
 ### To check out this project:
@@ -19,6 +24,12 @@ In your browser open [Sedna](http://localhost:3000/sedna/)
 
 ---
 ### What we used during development of the project:
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](	https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![image](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
+![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 [React](https://reactjs.org/docs/getting-started.html),
 [Hooks](https://reactjs.org/docs/hooks-reference.html),
 [NodeJS](https://nodejs.org/dist/latest-v16.x/docs/api/),

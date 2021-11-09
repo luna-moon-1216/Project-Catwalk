@@ -13,7 +13,7 @@ This repo is the first senior project in Hack Reactor's Bootcamp, consists of bu
 ## Click for full video demo
 [Video Demo](https://youtu.be/IzJkcMm4aOg)<br>
 
-![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4ab2137a-4203-434f-a774-b10d2e83931b/ezgif.com-gif-maker.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20211026%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211026T180258Z&X-Amz-Expires=86400&X-Amz-Signature=b2aac311387fde9ff8fbc0acccc85bf592452e2af674a85a80b29bd30a71a97b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22ezgif.com-gif-maker.gif%22)
+![image](https://github.com/luna-moon-1216/Project-Catwalk/blob/f6b08870a975caeaa187ab2df8ef303caa252d59/FEC%20DEMO.gif)
 
 
 ## To check out this project:
